@@ -1,0 +1,17 @@
+{
+  "name": "next-dynamic-document",
+  "version": "1.0.0",
+  "description": "Example of conditional rendering in _document.js on a pr page basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sindre Øye Svendby",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "next": "^7.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
